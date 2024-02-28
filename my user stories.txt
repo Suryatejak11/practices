@@ -1,0 +1,78 @@
+
+User Story:
+
+-> It is a tool in Agile software development used to capture
+   a description of a software feature from a user's perspective.
+
+-> The purpose of a user story is to write down how a project
+   will deliver value back to the end user.
+
+-> In agile software development, a user story is a brief,
+   simple language explanation of a feature or functionality
+   written from a user’s point of view.
+
+
+Template for User Story:
+
+-> As a < type of user >, I want < some goal > so that < some reason >.
+
+
+Example for User Story:
+
+-> In shopping app, there is a registered user, 
+   they will be able to save items to their whislist so that they can
+   purchase them later.
+
+-> This is the type of
+   user < registered user >, goal < to saveitems to wishlist >, reason < to purchase them later >
+
+
+Acceptance criteria:
+
+-> It is the requirement or conditions for a user story.
+
+-> Creates understanding about what is to be delivered.
+
+-> It defines the functionality, behaviour and quality in the orders.
+
+
+Example:
+
+-> All mandatory field must be completed before user can submit the form.
+
+-> Information from the form is stored in users database.
+
+-> The user will be able to verify the accuracy of the order and details. 
+
+-> Recommendations should based on user's past purchases and browsing history.
+
+
+Invest:
+-> INVEST stands for independent, negotiable, valuable, estimable, small, and testable.
+
+-> Independent: User stories should be independent. Team should be able to choose User stories
+   in the backlog to work on in any order. By that it can be said that Development team should
+   be able to work on any User story in the backlog without working on the other User story.
+
+-> Negotiable: story should be brief. It is not a detailed contract. It’s purpose is to
+   encourage ongoing conversation and scope negotiation between the customer and the developers.
+
+-> Valuable:  A story should provide value to the customer or the user. If a customer cannot
+   think of a value statement, then perhaps we should de-prioritize the story or maybe the work
+   is unnecessary, and we should eliminate it altogether.Another reason to have a value statement
+   is that value represents why we are building a certain feature. 
+
+-> Estimatable: Developers need to be able to estimate a story. It should be written in such a
+   way that the developers can understand it and have an idea of how to implement it. Key factors
+   for estimation are properly sized stories as well as domain knowledge and technical knowledge. 
+
+-> Small: User story should be small enough to complete in a Sprint.
+
+-> Testable: Stories should be testable in order to help determine completeness. A story should have an
+   acceptance criteria. The acceptance criteria should be objective. Avoid using criteria like
+   easy to use, fast or bug free. Try to write criteria that can be measured and tested (ideally automated).
+   For example, test that payment verification responds in 1 second or less at least 95% of the time.
+
+
+  
+   
